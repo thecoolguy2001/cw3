@@ -1,16 +1,7 @@
-# cw_03
+## Digital Pet App with State Management
+Objective: 
+The aim of this Flutter application is to create a digital pet simulation where users can
+interact with a virtual pet and manage its state. This project demonstrates the key concept of state
+management in Flutter using StatefulWidget and the State class. Users can perform actions like
+playing with or feeding the pet, which updates the pet's happiness and hunger levels dynamically.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
